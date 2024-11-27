@@ -6,7 +6,7 @@
 
 ## 🚀 Deploy
 
-- API Publicada: https://api-node-with-postgres-neon-serveless.onrender.com/
+- API Publicada: https://api-node-with-postgres-neon-serveless.onrender.com/videos
 
 
 
